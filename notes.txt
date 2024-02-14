@@ -1,0 +1,7 @@
+1 To start:
+2--create json package file----npm init
+3--npm i express dotenv====>express fro web framework and dotenv for environment variable like .env and url
+4-- npm i -D nodemon =====> dev dependencies
+5--code the server.cjs
+6--  .gitignore file
+7-- terminal--git init to push in the the github

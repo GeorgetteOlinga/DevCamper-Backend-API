@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "name": "backend-api-project",
+  "version": "1.0.0",
+  "description": "DEVCAMPER backend API",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev":"nodemon"
+    
+  },
+  "author": "Olinga",
+  "license": "ISC"
+}
